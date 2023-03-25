@@ -43,3 +43,4 @@ cd "%USERPROFILE%\.lunarclient\offline\multiver\"
     --workingDirectory . ^
     --classpathDir . ^
     --ichorClassPath "v1_7-0.1.0-SNAPSHOT-all.jar;lunar-lang.jar;lunar.jar;optifine-0.1.0-SNAPSHOT-all.jar;common-0.1.0-SNAPSHOT-all.jar
+    --ichorExternalFiles "OptiFine_v1_8.jar"
